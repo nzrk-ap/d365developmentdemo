@@ -7,9 +7,6 @@
     <RootNamespace>SB.Plugins</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="Messages\" />
-  </ItemGroup>
-  <ItemGroup>
     <PackageReference Include="Microsoft.CrmSdk.CoreAssemblies" Version="9.0.2.29" />
   </ItemGroup>
 

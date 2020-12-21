@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SB.Actions", "Dynamics\SB.A
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SB.Shared", "SB.Shared\SB.Shared.shproj", "{85121CA9-CDAC-45B7-89DA-E4F6BD71466D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SB.Plugins", "SB.Plugins\SB.Plugins.csproj", "{AD5EC782-AFC7-49AD-BA3E-0D31B244489C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SB.Plugins", "Dynamics\SB.Plugins\SB.Plugins.csproj", "{AD5EC782-AFC7-49AD-BA3E-0D31B244489C}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
